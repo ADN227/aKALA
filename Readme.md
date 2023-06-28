@@ -6,7 +6,7 @@ Para ello es necesario contar con:
 
 - Una cuenta de Microsoft Azure y una suscripción a Azure.
 - Una cuenta de Microsoft Teams.
-- Una cuenta de Microsoft Office o una cuenta de Google Drive.
+- Una cuenta de Microsoft Office o Google Drive.
 - Una cuenta de Twitter.
 
 En este caso usamos una cuentad de Google Drive para crear una hoja de cálculo en la que se guardarán los twits y una cuenta de Microsoft Teams para mostrar los twits en MS Teams en un nuevo canal.
